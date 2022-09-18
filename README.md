@@ -1,6 +1,9 @@
 <div id="header" align="center">
-  <img src="![new](https://user-images.githubusercontent.com/110723566/190924547-fbc0ed83-2f24-4f53-a6e0-0707128ec942.gif)" width="150"/>
   <div id="badges">
+  <h1>
+  hey there,i m vinay kumar
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   <a href="https:https://www.linkedin.com/in/vinay-kumar-81986b224">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -8,12 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
- 
-  <h1>
-  hey there,I M Vinay Kumar
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <span align="center" ><img src="https://tenor.com/3Z5D.gif" align ="center" height="400px" width="600px" padding="40 40 px"></span>
+  <span align="center" ><img src="new.gif" align ="center" height="200px" width="200px" padding="40 40 px"></span>
 </div>
 </div>
 
