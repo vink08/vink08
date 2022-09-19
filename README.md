@@ -7,7 +7,7 @@
   <a href="https:https://www.linkedin.com/in/vinay-kumar-81986b224">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/iiitb_kumar">
+  <a href="https://twitter.com/squirtlelivee">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
