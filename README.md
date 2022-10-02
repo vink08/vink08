@@ -10,8 +10,9 @@
   <a href="https://twitter.com/squirtlelivee">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <br>
-  <span align="center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F7d1&psig=AOvVaw1lkwiqtUi6tfLqU2OKGRRD&ust=1664796329156000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDX8eq3wfoCFQAAAAAdAAAAABAD" align ="center" height="200px" width="200px" padding="40 40 px"></span>
+  <br>![newdes](https://user-images.githubusercontent.com/110723566/193451765-0e15e41c-955c-4bdf-893c-e18d6c637870.gif)
+
+  <span align="center" ><img src="https://user-images.githubusercontent.com/110723566/193451765-0e15e41c-955c-4bdf-893c-e18d6c637870.gif" align ="center" height="300px" width="300px" padding="40 40 px"></span>
 </div>
 </div>
 
