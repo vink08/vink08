@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
-  <span align="center" ><img src="new.gif" align ="center" height="200px" width="200px" padding="40 40 px"></span>
+  <span align="center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F7d1&psig=AOvVaw1lkwiqtUi6tfLqU2OKGRRD&ust=1664796329156000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDX8eq3wfoCFQAAAAAdAAAAABAD" align ="center" height="200px" width="200px" padding="40 40 px"></span>
 </div>
 </div>
 
