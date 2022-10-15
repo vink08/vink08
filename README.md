@@ -33,12 +33,13 @@
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
  
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=squirtlelive&theme=dark&background=000000)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squirtlelive&theme=tokyonight)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=squirtlelive&theme=radical&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squirtlelive&theme=radical)<br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirtlelive)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=squirtlelive&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirtlelive&show_icons=true&theme=radical)<br>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=squirtlelive&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 
 
    
