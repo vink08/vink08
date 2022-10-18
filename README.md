@@ -25,12 +25,12 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" title="C" alt="C" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" title="C" alt="C" width="30" height="30"/>&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" title="C++" alt="C++" width="30" height="30"/>&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="Python" alt="Python" width="30" height="30"/>&nbsp;&nbsp;
  
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=squirtlelive&theme=radical&background=000000)](https://git.io/streak-stats)
@@ -39,7 +39,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirtlelive&show_icons=true&theme=radical)<br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=squirtlelive&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=squirtlelive&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 
 
    
