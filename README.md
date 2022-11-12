@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
-
+   
   <span align="center" ><img src="https://user-images.githubusercontent.com/110723566/193451765-0e15e41c-955c-4bdf-893c-e18d6c637870.gif" align ="center" height="300px" width="300px" padding="40 40 px"></span>
 </div>
 </div>
@@ -21,7 +21,7 @@
 😎B-Tech  Information Technology <br>
 👨‍🎓Currently I am studing at Indian Institute of Information Technology, Bhopal (M.P)<br>
 📧 Reach at ivinaykumar02@gmail.com<br>
-👨‍Knows C/C++,Python and currently learning web development | MERN Stack<br>
+👨‍Knows C/C++,Python|| MERN Stack<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
