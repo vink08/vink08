@@ -31,6 +31,8 @@
   <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" title="C" alt="C" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" title="C++" alt="C++" width="30" height="30"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="Python" alt="Python" width="30" height="30"/>&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png" alt="Node js" width="55" height="35"/>&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" title="React" alt="React" width="40" height="35"/>&nbsp;&nbsp;
  
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=squirtlelive&theme=radical&background=000000)](https://git.io/streak-stats)
