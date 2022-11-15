@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
+   <a><img src="https://komarev.com/ghpvc/?username=squirtlelive&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
    
   <span align="center" ><img src="https://user-images.githubusercontent.com/110723566/193451765-0e15e41c-955c-4bdf-893c-e18d6c637870.gif" align ="center" height="300px" width="300px" padding="40 40 px"></span>
 </div>
