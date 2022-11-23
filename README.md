@@ -21,7 +21,7 @@
 👉I am Vinay Kumar .<br>
 😎B-Tech  Information Technology <br>
 👨‍🎓Currently I am studing at Indian Institute of Information Technology, Bhopal (M.P)<br>
-📧 Reach at ivinaykumar02@gmail.com<br>
+📧 Reach me at ivinaykumar02@gmail.com<br>
 👨‍Knows C/C++,Python|| MERN Stack<br>
 
 ### :hammer_and_wrench: Languages and Tools :
