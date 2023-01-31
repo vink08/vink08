@@ -15,7 +15,7 @@
 
    
 
-  <span align="center" ><img src="https://user-images.githubusercontent.com/110723566/215167865-4deaab02-057c-4079-b6ed-617dec0b26a0.gif" align ="center" height="400px" width="900px" padding="40 40 px"></span>
+  <span align="center" ><img src="https://user-images.githubusercontent.com/110723566/215167865-4deaab02-057c-4079-b6ed-617dec0b26a0.gif" align ="center" height="300px" width="500px" padding="40 40 px"></span>
 </div>
 </div>
 
