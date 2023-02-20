@@ -38,11 +38,11 @@
   <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" title="React" alt="React" width="40" height="35"/>&nbsp;&nbsp;
  
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vink08&theme=radical&background=000000)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vink08&theme=radical)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vink08&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vink08&theme=tokyonight)<br>
   
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vink08&show_icons=true&theme=radical)<br>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vink08&show_icons=true&theme=tokyonight)<br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vink08&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
 
