@@ -45,7 +45,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vink08&show_icons=true&theme=tokyonight)<br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vink08&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vink08&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
    
