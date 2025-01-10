@@ -23,7 +23,7 @@
 👉I am Vinay Kumar .<br>
 😎B-Tech  Information Technology <br>
 👨‍🎓Currently I am studing at Indian Institute of Information Technology, Bhopal (M.P)<br>
-👨‍💻 Visit at my portfolio website https://vink08.tech/<br>
+👨‍💻 Visit at my portfolio website (https://vinaykumar-murex.vercel.app/)<br>
 📧 Reach me at ivinaykumar02@gmail.com<br>
 👨‍Knows C/C++,Python|| MERN Stack Development || Django Development<br>
 
